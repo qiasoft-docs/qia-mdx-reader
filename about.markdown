@@ -11,7 +11,7 @@ This set of documents is written by Johann Huang (aka. "I" in some places of thi
 
 ## Q&A
 
-Are the Qia mdx Reader application published?
+Is any of the Qia mdx Reader applications published?
 
 * The application is not yet published
 * I may publish it later if ready and necessary (I may never publish it because the creation of this application is my proof of concept of what a good software apllication should and could be; it is more about prototyping and product design and programming design)
