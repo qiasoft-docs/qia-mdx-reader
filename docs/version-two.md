@@ -14,7 +14,9 @@ Work in process
 
 ## Screenshots
 
-![Qia mdx Reader - Launcher, on macOS](images/20210529-235553.png)
+![Qia mdx Reader - Launcher, in Light Theme, on macOS](images/20210530-181423.png)
+
+![Qia mdx Reader - Launcher, in Dark Theme, on macOS](images/20210530-181921.png)
 
 ![JH IPA E-book: Metadata, on Chromium](images/20210529-235149.png)
 

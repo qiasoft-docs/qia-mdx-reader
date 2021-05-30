@@ -24,4 +24,4 @@ Why do I write this set of documents?
 
 ## Changelog
 
-*Not yet ready*
+* 20210529, initialized this documentation website
