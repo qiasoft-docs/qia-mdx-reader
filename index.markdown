@@ -10,7 +10,11 @@ nav_order: 0
 
 Qia mdx Reader is a cross-platform mdx file reader, just as Adobe Acrobat Reader is a pdf file reader.
 
-![JH IPA E-book: IPA/Mandarin, on Chromium](docs/images/20210530-000139.png)
+![Qia mdx Reader - Launcher, in Light Theme, on macOS](docs/images/20210530-181423.png)
+
+![JH IPA E-book: Metadata, on Chromium](docs/images/20210612-130453.png)
+
+<!-- ![JH IPA E-book: IPA/Mandarin, on Chromium](docs/images/20210530-000139.png) -->
 
 ![JH IPA E-book: tɕ, on Chromium](docs/images/20210530-000833.png)
 

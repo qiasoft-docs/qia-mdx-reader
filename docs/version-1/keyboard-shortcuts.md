@@ -2,7 +2,7 @@
 layout: default
 title: Keyboard Shortcuts
 
-parent: Version One
+parent: Version 1
 nav_order: 2
 ---
 

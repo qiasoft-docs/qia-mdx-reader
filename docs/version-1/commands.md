@@ -2,7 +2,7 @@
 layout: default
 title: Commands
 
-parent: Version One
+parent: Version 1
 nav_order: 3
 ---
 

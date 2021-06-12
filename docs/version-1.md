@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Version One
+title: Version 1
 
 nav_order: 9
 has_children: true
@@ -11,7 +11,7 @@ has_children: true
 Maintenance
 {: .label .label-blue }
 
-Qia mdx Reader version one or WxPython version is an desktop GUI application which runs on macOS, Windows and Linux (where Python and WxPython can run).
+Qia mdx Reader version 1 or WxPython version is an desktop GUI application which runs on macOS, Windows and Linux (where Python and WxPython can run).
 
 The GUI application also contains a CLI as text input as shown at the bottom middle on the following screenshots.
 

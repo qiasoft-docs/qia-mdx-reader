@@ -8,4 +8,4 @@ nav_order: 2
 
 # Python
 
-Only Python built-in API and one external library `websockets` are used to develop Qia mdx Reader version two HTTP and WebSocket server.
+On top of Python built-in API, only one external library `websockets` is used to develop Qia mdx Reader (version 2) HTTP and WebSocket server.

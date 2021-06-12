@@ -50,6 +50,7 @@ plugins:
 
 # SECTION: about the markdown
 kramdown:
+  input: GFM
   syntax_highlighter_opts:
     block:
       line_numbers: false

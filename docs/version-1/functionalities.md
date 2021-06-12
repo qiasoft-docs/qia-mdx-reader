@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Behaviors
+title: Functionalities
 
-parent: Version One
+parent: Version 1
 nav_order: 0
 ---
 
-# Behaviors
+# Functionalities
 
 Qia mdx Reader reads mdx files and provides many functionalities to provide users better experiences, therefore Qia mdx Reader also has many behaviors (or may also be called actions).
 

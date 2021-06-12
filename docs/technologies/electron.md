@@ -8,6 +8,12 @@ nav_order: 3
 
 # Electron
 
-Electron plus HTML, CSS and JavaScript without more external libraries are used to open mdx files via double clicking on files, using file dialog to select files and drag'n'drop-ping files.
+Electorn is used for making the launcher of Qia mdx Reader version 2.
 
-Worth noticing, I also build my own icon font to make the opened mdx file list list-style-type a little bit more sexy.
+On top of Electron, only HTML, CSS and JavaScript without more external libraries are used to make the launcher.
+
+As many other Eletron applications, the page in Qia mdx Reader launcher is also made by web browser technologies. Among which the following several points are worth mentioning.
+
+* The list numbers are made with my custom SVG icon font, therefore the digits are displayed as Chinese charactors (一二三四五六七八九〇 for 1234567890)
+  * I built my own icon font to use with list-style-type
+* The laucher is also a WebSocket client of Qia mdx Reader server, therefore, the list will get updated when the opened mdx file list gets changed from other sides (some files closed at another connected launcher or directly at the server side)
