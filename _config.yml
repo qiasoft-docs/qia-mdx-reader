@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -30,7 +30,7 @@ twitter:
   username: johannhuang_com
   card: summary
 twitter_username: johannhuang_com
-github_username:  johannhuang
+github_username: johannhuang
 
 # Build settings
 # theme: just-the-docs
@@ -66,8 +66,7 @@ kramdown:
 #   "Author's Home Page":
 #     - "//www.johannhuang.com"
 # aux_links_new_tab: true
-ga_tracking: UA-198138610-1
-
+ga_tracking: UA-210935065-2
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
